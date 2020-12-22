@@ -7,7 +7,7 @@ Feel free to change the code to get other information from an HTML file!
 
 I created this some time ago, using pieces of code, mainly from StackOverflow, of which the original creators I can't find to include here...
 
-# Dependencies
+# <p align="center"><b>Dependencies</b></p>
 !!! This code works only with the Chromium browser !!!
 
 • selenium (Python library)
@@ -16,7 +16,7 @@ I created this some time ago, using pieces of code, mainly from StackOverflow, o
 
 You can download the chromedriver executable for your Chromium version from here: https://chromedriver.chromium.org/downloads
 
-# Setup
+# <p align="center"><b>Setup</b></p>
 Make a directory, in which you will put the python script and the chromedriver.exe (on Windows).
 
 The text files will be saved in the same directory.
