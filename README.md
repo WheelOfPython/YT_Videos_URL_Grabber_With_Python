@@ -22,4 +22,5 @@ Make a directory, in which you will put the python script and the chromedriver.e
 The text files will be saved in the same directory.
 
 Use YT_URLs_Channel.py  to get the URLs of the videos of an entire channel.
+
 Use YT_URLs_Playlist.py to get the URLs of the videos of a playlist.
