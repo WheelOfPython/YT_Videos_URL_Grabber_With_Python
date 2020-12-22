@@ -1,4 +1,4 @@
-# YouTube Videos URL Grabber With Python
+# <p align="center"><b>YouTube Videos URL Grabber With Python</b></p>
 It makes a text file with the URL addresses of the videos of a given playlist or channel, in case you need them!
 
 It works by opening a browser instance, scrolling down to catch everything and searches the HTML file for the video URLs. Then it closes the instance.
